@@ -3,7 +3,9 @@
  ###Text:
  
  _italic text_
+ 
  **bold text**
+ 
  ~~ strike  text~~
  
  

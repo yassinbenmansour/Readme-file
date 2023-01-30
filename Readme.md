@@ -6,7 +6,7 @@
  
  **bold text**
  
- ~~ strike  text~~
+ ~~strike  text~~
  
  
  ###HEADING :

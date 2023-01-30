@@ -24,4 +24,4 @@
 Hello my name is :
 >yassine benmansour 
 
-Copyright &copy
+Copyright &copy;

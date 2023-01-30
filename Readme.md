@@ -9,7 +9,7 @@
  ~~strike  text~~
  
  
- ###HEADING :
+ ### HEADING :
  
  # title
  ## title
@@ -19,7 +19,7 @@
  ###### title
 
 
-###QUOTE and COPYRIGHT
+### QUOTE and COPYRIGHT
 
 Hello my name is :
 >yassine benmansour 
@@ -27,7 +27,7 @@ Hello my name is :
 Copyright &copy;
 
 
-###HYPERLINK
+### HYPERLINK
 
 [my github profil](https://github.com/yassinbenmansour)
 

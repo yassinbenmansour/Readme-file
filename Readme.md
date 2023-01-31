@@ -45,7 +45,7 @@ Copyright &copy;
 
 ### Code blocks 
 
-`
+```
 #include <unistd.h>
 
 main(){
@@ -53,4 +53,4 @@ main(){
  return 0;
 }
 
-`
+```

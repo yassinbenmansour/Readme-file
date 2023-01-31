@@ -34,3 +34,23 @@ Copyright &copy;
 >hyperlink picture add ![]
 
 ![github](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
+
+
+
+### CODE
+
+`printf("Hello");`
+`console.log();`
+
+
+### Code blocks 
+
+`
+#include <unistd.h>
+
+main(){
+ write(1,"hello world",12);
+ return 0;
+}
+
+`

@@ -66,9 +66,13 @@ main(){
 
 ### creating list 
 
-1.item1
-2.item2
- *s_item1
- *s_item2
- *s_item3
-3.item3
+1. item1
+2. item2
+ * s_item1
+ * s_item2
+ * s_item3
+3. item3
+* itemdisc
+* itemdisc
+* itemdisc
+

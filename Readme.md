@@ -57,8 +57,9 @@ main(){
 
 ### TABLE
 
-|id   |name   |cty
-|1    |ys     |sale
-|2    |ben     |rabat
-|3    |ddds     |knetra
+| id   | name   | cty   |
+|----- |------- | ------|
+| 1    | ys     | sale  |
+| 2    | ben    | rabat |
+| 3    | ddds   | knetra|
 

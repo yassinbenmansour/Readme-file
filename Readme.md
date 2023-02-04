@@ -76,3 +76,20 @@ main(){
 * itemdisc
 * itemdisc
 
+
+
+
+### Task
+
+- [x] koora
+- [] bascket
+- [] tenis
+
+
+
+
+### lines
+
+***
+
+---

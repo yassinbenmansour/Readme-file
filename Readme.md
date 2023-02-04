@@ -82,8 +82,8 @@ main(){
 ### Task
 
 - [x] koora
-- [] bascket
-- [] tenis
+- [ ] bascket
+- [ ] tenis
 
 
 
@@ -91,5 +91,4 @@ main(){
 ### lines
 
 ***
-
----
+===
